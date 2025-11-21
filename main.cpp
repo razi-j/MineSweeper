@@ -4,6 +4,7 @@
 #include<GL/glut.h>
 #include<cstdio>
 #include<stdlib.h>
+#include "minesweeper.h" // implements the minesweeper class
 #include<vector>
 
 
