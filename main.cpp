@@ -10,7 +10,7 @@
 #include <iostream>
 
 
-
+// compile with  g++ -o minesweeper main.cpp minesweeper.cpp -lGL -lGLU -lGLEW -lglut   
 
 MinesweeperGame game;
 void display() {
